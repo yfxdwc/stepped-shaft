@@ -1,0 +1,39 @@
+# CAD 软件
+*.FCStd1
+*.FCStd.bak
+*.fcstd1
+*.tmp
+*.lock
+
+# 3D 打印文件
+*.3mf
+*.amf
+
+# 备份文件
+*~
+*.bak
+.*.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
+ehthumbs.db
+
+# 旧版本文件
+*_old*
+*_backup*
+*_副本*
